@@ -13,9 +13,10 @@ app.set('view engine', 'ejs');
 const users = require('./routes/users')
 app.use(users);
 
-//db set_up
+//data_base
 
 //create tabel for users
+
 // const table  = require('./models/users_table')
 
 
